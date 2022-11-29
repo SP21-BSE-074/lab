@@ -1,0 +1,111 @@
+#drop{
+    color: white;
+}
+#navbar{
+    background-color: lightblue;
+}
+#iii{
+    color: white;
+}
+#kkk{
+    color: white;
+
+}
+#mm{
+    margin-left: 400px;
+}
+#lll{
+    color: white;
+
+}
+#hhh{
+    color: white;
+
+}
+#ggg{
+    color: white;
+}
+#ppp{
+    color: white;
+}
+#cards{
+    height: 150vh;
+    display: grid;
+    background-color: whitesmoke;
+
+}
+#card1{
+    width:250px;
+    margin-left:20px;
+    margin-top:10px;
+    height:32vh;
+}
+#card2{
+    width:250px;
+    margin-left:20px;
+    margin-top:-160px;
+    height:20vh;
+}
+#card3{
+    width: 250px;
+    margin-left: 20px;
+    margin-top: -200px;
+    height: 32vh;
+}
+#card4{
+    width: 250px;
+    margin-left: 20px;
+    margin-top: -170px;
+    height: 20vh;
+}
+#mid1{
+    width:550px;
+    margin-top:10px;
+    margin-left:20px;
+
+}
+#www{
+    width:100%;
+    height: 10vh;
+}
+#uuu{
+    height: 120vh;
+}
+#cardd{
+    height:80vh;
+    width:290px;
+}
+#col4{
+    height:150px;
+}
+#article{
+    height:150px;
+}
+#form{
+    margin-left:120px;
+    height:600px;
+}
+#foot1{
+    margin-left:20px;
+    font-size:12px;
+  
+}
+#foot2{
+  font-size:12px;
+  padding-left:260px;
+}
+#foot3{
+    font-size:12px;
+    padding-left:260px;
+    margin-left:230px;
+  }
+  #foot4{
+    font-size:12px;
+    padding-left:550px;
+    margin-left:190px;
+  }
+  #foot5{
+    font-size:12px;
+    padding-left:900px;
+    margin-left:80px;
+  }

@@ -1,0 +1,77 @@
+#nav{
+
+    height:12vh;
+}
+#web{
+    height: 10vh;
+    width: 100%;
+    background-color:brown;
+}
+#search{
+
+    margin-top:-54px;
+    margin-left:350px;
+}
+#search, .d-flex{
+
+    width: 70%;
+    height: 40px;
+}
+.btn-group{
+
+    text-decoration:none;
+    width:20%;
+    height:40px;
+    margin-top:-50px;
+    margin-left:1070px;
+
+}
+#but1{
+    text-decoration:none;
+    color:black;
+    border:none;
+}
+#but2{
+    text-decoration:none;
+    color:blue;
+    
+}
+#ttt{
+    width:400px;
+    height:50px;
+}
+#kkk{
+    width:400px;
+    height:50px;
+}
+#bbb{
+    width:400px;
+    height:50px;
+}
+#www{
+    width:400px;
+    height:50px;
+}
+#iii{
+    width:400px;
+    height:50px;
+}
+#mmm{
+    width:400px;
+    height:50px;
+}
+#nnn{
+    width:400px;
+    height:50px;
+}
+#form{
+    background-color: white;
+    align-items: center;
+    margin-left: 400px;
+}
+#form{
+    background-color: white;
+    align-items: center;
+    margin-left: 400px;
+
+}
